@@ -1,0 +1,1 @@
+By this easy app, we can set plugs to pins in a Raspberry, store, load and print screenshot of the configurations.
